@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+box-sizing: border-box;
+
+}
+body{
+    background-color: red;
+}
+.barra .nav-superior .days {
+    background-color: burlywood;
+    
+}
+header {
+    background-color: burlywood;
+}
+
+.navbar-brand {
+    font-family: cursive;
+    font-size: xx-large;
+}
+
+.days {
+    text-align: right;
+    margin-top: -15px;
+    margin-left: -20px;
+}
+header .nav-superior .days {
+    background-color: green;
+    
+}
+
+.cont {
+    display: flex;
+}
+
+.contact-form {
+
+    margin-left: 500px;
+}
